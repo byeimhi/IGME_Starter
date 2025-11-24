@@ -1,1 +1,3 @@
 git pull upstream main
+
+git remote add upstream https://github.com/IGM-labigm/IGME_Complete.git
